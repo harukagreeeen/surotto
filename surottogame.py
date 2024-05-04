@@ -1,3 +1,4 @@
+# HIROKI TSUKIMA
 import tkinter as tk
 import random
 
